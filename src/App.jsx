@@ -7,7 +7,7 @@ import UsersPage from './components/pages/UsersPage';
 import NotFoundPage from './components/pages/NotFoundPage';
 import  NavBar  from './components/NavBar/NavBar';
 import UserPage from './components/pages/UserPage';
-import Dashboard from './components/dashboard';
+import Dashboard from './components/Dashboard';
 
 
 
